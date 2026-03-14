@@ -1,6 +1,6 @@
 # webx2
 
-Second addition to [webx](https://llm32.itch.io/webx), now with HTTPS.
+Second addition to [webx](https://github.com/webxplatform/webx), now with HTTPS.
 
 Everything webx can do is here — register any domain at any subdomain depth, publish raw HTML, set sites as public or private, give them a lifespan in seconds through days, browse in incognito mode, and six custom error codes. webx2 adds a full TLS layer on top of all of that.
 
